@@ -11,7 +11,6 @@ This project includes both client-side and server-side rendering
 
 
 # Project Setup
-This web app supports 6 profile types:
 1. Login Page
 ![localhost_3000_login](https://github.com/user-attachments/assets/630ecb89-96ee-4884-9390-1d41a649bb91)
 2. Register Page
